@@ -1,0 +1,45 @@
+{
+    "name": "Allies",
+    "description": "Over 9,000 organisations use our technology to capture better addresses faster. Validation, autocomplete, cleansing and data from Allies Computing.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18948-allies.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "postal"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/allies\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Allies",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18948-allies.jpg",
+            "humanURL": "https:\/\/www.alliescomputing.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/allies-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/allies-computing-ltd"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/alliescom"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.alliescomputing.com\/"
+        }
+    ]
+}
